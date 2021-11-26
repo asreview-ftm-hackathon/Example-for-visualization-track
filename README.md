@@ -5,8 +5,7 @@ inspiration!
 
 Good luck! 
 
-![logo](https://raw.githubusercontent.com/asreview/asreview-artwork/e2e6e5ea58a22077b116b9c3d2a15bc3fea585c7/SVGicons/IconELAS/ELASeyes24px24px.svg
-"ASReview")
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Rubber_duck.svg" width="50" height="50">
 
 ## Content
 This reposity contains multiple scripts, used for plotting and visualizing the
