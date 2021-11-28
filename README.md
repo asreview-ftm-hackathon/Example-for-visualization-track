@@ -1,11 +1,14 @@
 # Example-for-visualization-track
 For the visualization track you can take a look in this repository to get some
-inspiration!
+inspiration. It contains an example of the semantic clustering algorithm:
+
+![Semantic Clustering](docs/example.gif)
 
 
 Good luck! 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Rubber_duck.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Rubber_duck.svg"
+width="50" height="50">
 
 ## Content
 This reposity contains multiple scripts, used for plotting and visualizing the
