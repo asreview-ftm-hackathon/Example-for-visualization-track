@@ -30,3 +30,14 @@ To use the scripts, you need to have the ASReview extension installed. Doing
 this, and starting the server, is done by executing the `start_app.bat` script.
 
 **Note**: Using this script will install an extension using pip!
+
+The script can also be used manually. First, the following repository needs to
+be installed:
+
+`https://github.com/asreview/semantic-clusters.git`
+
+Then, the command for starting the dashboard is:
+
+```shell
+asreview semantic_clustering -a clustered.csv
+```
