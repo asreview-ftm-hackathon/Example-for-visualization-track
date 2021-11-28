@@ -24,3 +24,9 @@ semantic_clustering extension. Output of this script is stored in the
 [`start_app.bat`](/scripts/start_app.bat) contains the command that starts the
 ASReview semantic_clustering dashboard server, and opens the dashboard in a
 browser.
+
+## Usage
+To use the scripts, you need to have the ASReview extension installed. Doing
+this, and starting the server, is done by executing the `start_app.bat` script.
+
+**Note**: Using this script will install an extension using pip!
